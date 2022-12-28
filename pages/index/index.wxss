@@ -1,0 +1,9 @@
+/**index.wxss**/
+
+ .all{
+text-emphasis: center;
+}
+
+.title {
+  color: red;
+}

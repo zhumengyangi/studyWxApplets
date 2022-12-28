@@ -1,0 +1,8 @@
+<text class="title">
+  hello {{wording}}!
+</text>
+<br/>
+
+<image src="../../img/zhumengyang.jpeg" mode="widthFix"/>
+
+<button bindtap="onClick">点击</button>
