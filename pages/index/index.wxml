@@ -1,8 +1,18 @@
-<text class="title">
-  hello {{wording}}!
-</text>
-<br/>
+<image class="img" src="../../img/zhumengyang.jpeg" mode="widthFix" />
 
-<image src="../../img/zhumengyang.jpeg" mode="widthFix"/>
-
-<button bindtap="onClick">点击</button>
+<view class="comment">
+  短篇故事
+</view>
+<view class="body">
+  <view class="title">
+    小兔子和金鱼先生
+  </view>
+  <view> 小兔子喜欢上了金鱼先生，总是蹦蹦跳跳去池塘边看他。</view>
+  <view>“呐，今天的胡萝卜可是很甜的喏”</view>
+  <view>“欸，那朵云彩好像我们啊，”</view>
+  <view>“咦，为什么不和我说话嘛，亲爱的金鱼先生”</view>
+  <view>忍无可忍，金鱼终于浮出水面，用尾巴拍打溅起水花，凶巴巴的说</view>
+  <view>“下次再用胡萝卜喂我，信不信要你好看哦”</view>
+  <view>小兔子吓红了眼眶，金鱼眨眨眼，温柔的说</view>
+  <view>“下次再用胡萝卜喂我，我就，我就，我就要亲你一口咯"</view>
+</view>

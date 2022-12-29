@@ -1,9 +1,15 @@
 /**index.wxss**/
 
- .all{
-text-emphasis: center;
+Page {
+text-align: center;
+}
+
+.img {
+  width: 100%;
 }
 
 .title {
   color: red;
+  font-size: 30px;
+  
 }
